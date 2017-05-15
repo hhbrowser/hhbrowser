@@ -2,5 +2,8 @@
     "search_index": "2",
     "sogou_source": "bid=dsjfhdsjfhdjsf",
     "baidu_source": "from=hhbrowser",
-    "360_source": "f=hhbrowser"
+    "360_source": "f=hhbrowser",
+    "baidu_prefix": "https://m.baidu.com/s?word=",
+    "sogou_prefix": "https://m.sogou.com/web/searchList.jsp?keyword=",
+    "qihu_prefix": "https://m.so.com/s?q="
 }
