@@ -5,5 +5,6 @@
     "360_source": "f=hhbrowser",
     "baidu_prefix": "https://m.baidu.com/s?word=",
     "sogou_prefix": "https://m.sogou.com/web/searchList.jsp?keyword=",
-    "qihu_prefix": "https://m.so.com/s?q="
+    "qihu_prefix": "https://m.so.com/s?q=",
+    "baidu_bid": "https://m.baidu.com"
 }
