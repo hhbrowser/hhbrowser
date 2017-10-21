@@ -2,8 +2,8 @@
   "data": [
         {
             "host": "youku",
-            "type": 1,
-            "template": "http://www.52jiexi.com/yun.php?url=%s"
+            "type": 2,
+            "template": "http://9080.yefu365.com/player/index.php?type=youku&id=%s"
         },
         {
             "host": "qq",
@@ -13,12 +13,12 @@
         {
             "host": "le",
             "type": 1,
-            "template": "http://www.52jiexi.com/yun.php?url=%s"
+            "template": "http://vip.lywanbang.com:777/index.php?type=letv&id=%s"
         },
         {
             "host": "sohu",
             "type": 1,
-            "template": "http://www.52jiexi.com/yun.php?url=%s"
+            "template": "https://tyhttps.duapp.com/1040https/333.php?url=%s"
         },
         {
             "host": "iqiyi",
