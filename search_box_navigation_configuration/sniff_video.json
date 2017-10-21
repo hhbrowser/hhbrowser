@@ -1,0 +1,31 @@
+[
+  {
+    "host": "youku",
+    "type": 1,
+    "template": "http://www.52jiexi.com/yun.php?url=%s"
+  },
+
+  {
+    "host": "qq",
+    "type": 1,
+    "template": "http://www.52jiexi.com/yun.php?url=%s"
+  },
+
+  {
+    "host": "le",
+    "type": 1,
+    "template": "http://www.52jiexi.com/yun.php?url=%s"
+  },
+
+  {
+    "host": "sohu",
+    "type": 1,
+    "template": "http://www.52jiexi.com/yun.php?url=%s"
+  },
+
+  {
+    "host": "iqiyi",
+    "type": 1,
+    "template": "http://player.quankan.tv/playm3u8/index.php?needxiu=/hash_uyuy_&url=%s"
+  }
+]
