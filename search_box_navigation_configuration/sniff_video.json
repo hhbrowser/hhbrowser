@@ -13,7 +13,7 @@
         {
             "host": "le",
             "type": 1,
-            "template": "http://vip.lywanbang.com:777/index.php?type=letv&id=%s"
+            "template": "http://www.52jiexi.com/yun.php?url=%s"
         },
         {
             "host": "sohu",
