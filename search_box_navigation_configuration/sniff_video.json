@@ -8,7 +8,7 @@
         {
             "host": "qq",
             "type": 1,
-            "template": "http://www.52jiexi.com/yun.php?url=%s"
+            "template": "http://y.mt2t.com/lines?url=%s"
         },
         {
             "host": "le",
