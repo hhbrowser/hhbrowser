@@ -2,28 +2,28 @@
   "data": [
         {
             "host": "youku",
-            "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "type": 2,
+            "template": "http://9080.yefu365.com/player/index.php?type=youku&id=%s"
         },
         {
             "host": "qq",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "http://y.mt2t.com/lines?url=%s"
         },
         {
             "host": "le",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "http://vip.lywanbang.com:777/index.php?type=letv&id=%s"
         },
         {
             "host": "sohu",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "https://tyhttps.duapp.com/1040https/333.php?url=%s"
         },
         {
             "host": "iqiyi",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "http://player.quankan.tv/playm3u8/index.php?needxiu=/hash_uyuy_&url=%s"
         }
     ]
 }
