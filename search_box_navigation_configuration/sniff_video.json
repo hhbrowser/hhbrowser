@@ -2,8 +2,8 @@
   "data": [
         {
             "host": "youku",
-            "type": 2,
-            "template": "http://9080.yefu365.com/player/index.php?type=youku&id=%s"
+            "type": 1,
+            "template": "http://jx.58dyw.cn/vip/?url=%s"
         },
         {
             "host": "qq",
