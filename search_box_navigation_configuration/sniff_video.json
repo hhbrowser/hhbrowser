@@ -3,7 +3,7 @@
         {
             "host": "youku",
             "type": 1,
-            "template": "http://jx.58dyw.cn/vip/?url=%s"
+            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
         },
         {
             "host": "qq",
