@@ -8,7 +8,7 @@
         {
             "host": "qq",
             "type": 1,
-            "template": "http://y.mt2t.com/lines?url=%s"
+            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
         },
         {
             "host": "le",
