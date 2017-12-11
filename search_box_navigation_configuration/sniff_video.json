@@ -23,7 +23,7 @@
         {
             "host": "iqiyi",
             "type": 1,
-            "template": "http://player.quankan.tv/playm3u8/index.php?needxiu=/hash_uyuy_&url=%s"
+            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
         }
     ]
 }
