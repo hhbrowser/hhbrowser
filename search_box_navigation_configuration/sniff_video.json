@@ -3,7 +3,7 @@
         {
             "host": "youku",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "http://jx.koflv.cn/ku/player.php?v=%s"
         },
         {
             "host": "qq",
@@ -18,12 +18,12 @@
         {
             "host": "sohu",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "https://player.dengtian.org/ipsign/player.php?v=%s"
         },
         {
             "host": "iqiyi",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "http://api.51ckm.com/jx.php?url=%s"
         }
     ]
 }
