@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.4.0.47",
+  "latestVersionCode": "47",
+  "url": "http://repo.pt.miui.com/service/local/artifact/maven/redirect?r=releases&g=com.android&a=browser_arm_global&v=9.7.3&e=apk&c=universal",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
+}
