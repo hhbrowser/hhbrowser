@@ -1,0 +1,55 @@
+{
+    "errno": 10000,
+    "v": "20180819000000",
+    "apiname": "searchengine",
+    "data": [
+        {
+            "id": "652",
+            "name": {
+                "us-en": "Google"
+            },
+            "keyword": "google",
+            "url": "google",
+            "icon": "www.google.com_46bfba68fe5ea72d3100f7c614cbe903.png",
+            "rank": "1",
+            "color": "#ffffff",
+            "other": {
+                "isdefault": "0"
+            },
+            "search_url": "https://www.google.com/search?q={searchTerms}",
+            "logo": "www.google.com_092badd700a724ed47f4d29cc3230c40.png"
+        },
+        {
+            "id": "653",
+            "name": {
+                "us-en": "Yahoo"
+            },
+            "keyword": "yahoo",
+            "url": "yahoo",
+            "icon": "search.yahoo.com_444ef6358eb2d6ec0923280e132951d4.png",
+            "rank": "2",
+            "color": "#ffffff",
+            "other": {
+                "isdefault": "0"
+            },
+            "search_url": "https://search.yahoo.com/search?p={searchTerms}",
+            "logo": "search.yahoo.com_9afcb36ba98031aadf220cb39cfde36c.png"
+        },
+        {
+            "id": "655",
+            "name": {
+                "us-en": "Bing"
+            },
+            "keyword": "bing",
+            "url": "bing",
+            "icon": "www.bing.com_6c7c6dfa9483e49ae62dc1a5eceb5313.png",
+            "rank": "3",
+            "color": "#ffffff",
+            "other": {
+                "isdefault": "1"
+            },
+            "search_url": "http://www.bing.com/search?q={searchTerms}",
+            "logo": "www.bing.com_d465b36482b67e8305949689e9c502aa.png"
+        }
+    ]
+}
