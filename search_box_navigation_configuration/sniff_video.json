@@ -1,29 +1,4 @@
 { 
   "data": [
-        {
-            "host": "youku",
-            "type": 1,
-            "template": "http://jx.koflv.cn/ku/player.php?v=%s"
-        },
-        {
-            "host": "qq",
-            "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
-        },
-        {
-            "host": "le",
-            "type": 1,
-            "template": "http://vip.lywanbang.com:777/index.php?type=letv&id=%s"
-        },
-        {
-            "host": "sohu",
-            "type": 1,
-            "template": "https://player.dengtian.org/ipsign/player.php?v=%s"
-        },
-        {
-            "host": "iqiyi",
-            "type": 1,
-            "template": "http://api.51ckm.com/jx.php?url=%s"
-        }
     ]
 }
