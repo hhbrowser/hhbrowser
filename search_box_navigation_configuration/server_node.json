@@ -1,0 +1,28 @@
+[
+    {
+        "ip": "127.0.0.1",
+        "port": "27",
+        "method": "vpnmethod",
+        "password": "vpnpassword",
+        "title": "VPN title",
+        "icon": "http://icon.com",
+        "region": "East Asia",
+        "country": "Japan",
+        "city": "Tokyo",
+        "nodeType": 1,
+        "nodeUuid": "nodeUUID"
+    },
+    {
+        "ip": "127.0.0.2",
+        "port": "29",
+        "method": "vpnmethod2",
+        "password": "vpnpassword2",
+        "title": "VPN title",
+        "icon": "http://icon.com",
+        "region": "American",
+        "country": "US",
+        "city": "New York",
+        "nodeType": 2,
+        "nodeUuid": "nodeUUID2"
+    }
+]
