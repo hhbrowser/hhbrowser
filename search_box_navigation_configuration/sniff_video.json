@@ -3,27 +3,53 @@
         {
             "host": "youku",
             "type": 1,
-            "template": "http://jx.koflv.cn/ku/player.php?v=%s"
+            "template": "https://www.nxflv.com/?url=%s"
         },
         {
             "host": "qq",
             "type": 1,
-            "template": "http://zimeiti.kuaiso.com/wap/play?url=%s"
+            "template": "https://www.nxflv.com/?url=%s"
         },
         {
             "host": "le",
             "type": 1,
-            "template": "http://vip.lywanbang.com:777/index.php?type=letv&id=%s"
+            "template": "https://www.nxflv.com/?url=%s"
         },
         {
             "host": "sohu",
             "type": 1,
-            "template": "https://player.dengtian.org/ipsign/player.php?v=%s"
+            "template": "https://www.nxflv.com/?url=%s"
+        },
+        {
+            "host": "mgtv",
+            "type": 1,
+            "template": "https://www.nxflv.com/?url=%s"
+        },
+        {
+            "host": "pptv",
+            "type": 1,
+            "template": "https://www.nxflv.com/?url=%s"
+        },
+        {
+            "host": "migu",
+            "type": 1,
+            "template": "https://www.nxflv.com/?url=%s"
+        },
+        {
+            "host": "bilibili",
+            "type": 1,
+            "template": "https://www.nxflv.com/?url=%s"
+        },
+        {
+            "host": "1905",
+            "type": 1,
+            "template": "https://www.nxflv.com/?url=%s"
         },
         {
             "host": "iqiyi",
             "type": 1,
-            "template": "http://api.51ckm.com/jx.php?url=%s"
+            "template": "https://www.nxflv.com/?url=%s"
         }
-    ]
+    ],
+  "js": "document.getElementById('f_f').style.display = 'none';"
 }
