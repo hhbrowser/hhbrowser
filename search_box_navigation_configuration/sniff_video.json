@@ -52,7 +52,7 @@
         }
     ],
   "js": "document.getElementById('f_f').style.display = 'none';",
-  "enable_ads": 0,
+  "enable_ads": 1,
   "ads_app_id": "1202063534",
   "ads_splash_unit_id": "6065526242455178",
   "permission_require": 1
